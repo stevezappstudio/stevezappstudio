@@ -1,6 +1,6 @@
-# Proyectos REcientes
+# Proyectos Recientes
 
-### Proyecto 1: Scrapeo con Python
+### 1: Scrapeo con Python
 Extracción de información usando técnicas de Scrapy, Selenium y BeautifulSoup, la programación fue fullstack ya que desarrolle: infraestructura de servidores, bases de datos, backend y frontend.
 
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-bottom: 20px;">
