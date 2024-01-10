@@ -2,9 +2,9 @@
 
 Bienvenido a mi portafolio personal. Aquí encontrarás información sobre los proyectos en los que he trabajado y las habilidades que he desarrollado.
 
-## Proyectos Destacados
+## Proyectos Recientes
 
-### Proyecto 1: [Nombre del Proyecto 1](enlace_al_proyecto1)
+### Proyecto 1: 
 Descripción breve del proyecto 1.
 
 ![Imagen del Proyecto 1](enlace_a_la_imagen1)
