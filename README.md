@@ -1,8 +1,4 @@
-# Portafolio Personal
-
-Bienvenido a mi portafolio personal. Aquí encontrarás información sobre los proyectos en los que he trabajado y las habilidades que he desarrollado.
-
-## Proyectos Recientes
+# Proyectos REcientes
 
 ### Proyecto 1: Scrapeo con Python
 Extracción de información usando técnicas de Scrapy, Selenium y BeautifulSoup, la programación fue fullstack ya que desarrolle: infraestructura de servidores, bases de datos, backend y frontend.
