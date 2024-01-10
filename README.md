@@ -5,7 +5,7 @@ Bienvenido a mi portafolio personal. Aquí encontrarás información sobre los p
 ## Proyectos Recientes
 
 ### Proyecto 1: Scrapeo con Python
-Extracción de información usando técnicas de Scrapy, Selenium y BeautifulSoup, la programación fue fullstack ya que desarrolle: infraestructura de servidores, bases de datos, backen y frontend.
+Extracción de información usando técnicas de Scrapy, Selenium y BeautifulSoup, la programación fue fullstack ya que desarrolle: infraestructura de servidores, bases de datos, backend y frontend.
 
 ![Imagen del Proyecto 1](images/python.png)
 
